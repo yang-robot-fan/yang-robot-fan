@@ -1,5 +1,4 @@
-![My Banner](<img width="1080" height="1440" alt="eb43ac67085de99c94acc04589325353" src="https://github.com/user-attachments/assets/1db04503-06be-4004-ae81-433420227709" />
-)
+![My Banner](<img width="1279" height="1951" alt="2d727c188dd3a28527f2834eff5d1f4e" src="https://github.com/user-attachments/assets/c238fda7-e0f7-48ba-b636-673f27079a4d" />
 )
 
 # Hi there, I'm Zekai Yang 👋
