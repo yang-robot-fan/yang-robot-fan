@@ -40,7 +40,7 @@ Running: Keeping active and focused 🏃‍♂️
 Racing: Passionate about motorsports and the thrill of speed 🏎️
 
  📫 Let's Connect
-Email: [zekaiyang08@gmail.com](mailto:zekaiyang06@gmail.com)
+Email: [zekaiyang06@gmail.com](mailto:zekaiyang06@gmail.com)
 
 
 ![Zekai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yang-robot-fan&show_icons=true&theme=radical)
