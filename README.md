@@ -1,4 +1,8 @@
-Hi there 👋
+![My Banner](![Uploading ad9002e0c5fd880d1d6a5a54379c740c.jpg…]()
+)
+
+# Hi there, I'm Zekai Yang 👋
+...
 Hi there, I'm Zekai Yang 👋
 
 I am an undergraduate student majoring in Information and Computing Science, with a strong passion for Machine Learning and Artificial Intelligence. I enjoy leveraging data modeling and deep learning technologies to solve complex, real-world problems.
