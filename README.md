@@ -6,6 +6,8 @@ I am an undergraduate student majoring in Information and Computing Science, wit
 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FFD700?style=for-the-badge&logo=codeforces&logoColor=black)
@@ -26,7 +28,7 @@ Active member of the Chinese Association for Artificial Intelligence (CAAI) and 
 Footprints:
   Invited to the "Tsinghua University AI Exchange Day".
   Invited to the "1st International Artificial General Intelligence (AGI) Conference".
-  Invited to the "MSRA (Microsoft Research Asia) Open Day** to explore the future of Large Language Models".
+  Invited to the "MSRA (Microsoft Research Asia) Open Day“ to explore the future of Large Language Models.
 
 🏸 Hobbies
 Go (Weiqi):Amateur 3-Dan ⚖️
